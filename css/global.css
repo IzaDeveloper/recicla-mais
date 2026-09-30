@@ -135,3 +135,8 @@ p {
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
+
+figcaption {
+  text-align: center;
+  margin-block: 0 var(--space-4);
+}

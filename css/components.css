@@ -246,6 +246,22 @@
   grid-template-columns: repeat(2, 1fr);
 }
 
+
+.materials-image {
+  max-width: 100%;
+  margin-bottom: var(--spacing-6);
+  overflow: hidden;
+}
+
+.materials-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: var(--radius-lg);
+}
+
 .material-card {
   display: grid;
   grid-template-columns: auto 1fr;
