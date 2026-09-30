@@ -1,0 +1,17 @@
+{
+  "name": "recicla-mais",
+  "version": "1.0.0",
+  "description": "Site institucional acadêmico sobre reciclagem com HTML, CSS e JavaScript puro, acessibilidade WCAG 2.1 e build de produção.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "build:prod": "node scripts/build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true
+}
