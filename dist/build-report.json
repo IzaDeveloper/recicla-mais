@@ -1,0 +1,23 @@
+{
+  "tool": "Node.js build script (bundler e minificador sem dependências externas)",
+  "javascript": {
+    "sourceBytes": 5141,
+    "outputBytes": 4073,
+    "reductionPercent": 20.774168449717955
+  },
+  "css": {
+    "sourceBytes": 15472,
+    "outputBytes": 12106,
+    "reductionPercent": 21.75542916235781
+  },
+  "html": {
+    "sourceBytes": 14213,
+    "outputBytes": 10744,
+    "reductionPercent": 24.40723281502849
+  },
+  "total": {
+    "sourceBytes": 34826,
+    "outputBytes": 26923,
+    "reductionPercent": 22.692815712398783
+  }
+}
